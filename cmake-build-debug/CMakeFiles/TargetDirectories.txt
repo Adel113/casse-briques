@@ -1,0 +1,3 @@
+C:/Users/sidi ahmed/CLionProjects/SDLSDL/cmake-build-debug/CMakeFiles/SDLSDL.dir
+C:/Users/sidi ahmed/CLionProjects/SDLSDL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sidi ahmed/CLionProjects/SDLSDL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
